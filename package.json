@@ -1,5 +1,5 @@
 {
-  "name": "fastify-example",
+  "name": "fastify-ts-example",
   "version": "1.0.0",
   "main": "dist/src/index.js",
   "author": "unirt <lunirtc@gmail.com>",

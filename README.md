@@ -1,4 +1,4 @@
-# fastify-example
+# fastify-ts-example
 
 ## How to run
 1. `yarn`
